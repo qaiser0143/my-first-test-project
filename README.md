@@ -4,3 +4,4 @@ Add new update for today
 test commit 1
 update 1
 test commit 2
+update 2

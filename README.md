@@ -14,3 +14,4 @@ nano_file
 nano_copy_file
 makdir/testfolder_myfilet.txt
 todays work 1
+my learning place 143

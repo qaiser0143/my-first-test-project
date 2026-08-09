@@ -11,3 +11,4 @@ github project day ten
 linux command leraning
 pwd touch cd cat
 nano_file
+nano_copy_file

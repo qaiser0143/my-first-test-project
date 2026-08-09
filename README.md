@@ -13,3 +13,4 @@ pwd touch cd cat
 nano_file
 nano_copy_file
 makdir/testfolder_myfilet.txt
+todays work 1
